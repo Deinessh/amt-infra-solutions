@@ -73,7 +73,7 @@ const productsData = [
     title: "Fire Rated Doors",
     category: "safety",
     categoryLabel: "Fire & Safety",
-    image: "assets/amt_fire_door.png",
+    image: "assets/amt_red_fire_door.png",
     badge: "60-120 Min Rated",
     description: "Certified fire-resistant steel doors built to withstand intense heat and prevent flame spread, equipped with panic bar hardware and intumescent seals.",
     features: ["UL / CBRI Certified", "Intumescent Smoke Seals", "Panic Exit Push Bar", "Heavy Duty Hydraulic Closer"],
